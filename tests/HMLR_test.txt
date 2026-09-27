@@ -1,0 +1,36 @@
+Iterations: 500000
+Stopped because: iteration limit reached
+Final loss change (new - old): -8.897979249e-09
+For observation 0 predict: 0 | true
+For observation 1 predict: 2 | true
+For observation 2 predict: 1 | true
+For observation 3 predict: 1 | true
+For observation 4 predict: 0 | true
+For observation 5 predict: 1 | true
+For observation 6 predict: 0 | true
+For observation 7 predict: 0 | true
+For observation 8 predict: 2 | true
+For observation 9 predict: 1 | true
+For observation 10 predict: 2 | true
+For observation 11 predict: 2 | true
+For observation 12 predict: 2 | true
+For observation 13 predict: 1 | true
+For observation 14 predict: 0 | true
+For observation 15 predict: 0 | true
+For observation 16 predict: 0 | true
+For observation 17 predict: 1 | true
+For observation 18 predict: 1 | true
+For observation 19 predict: 2 | true
+For observation 20 predict: 0 | true
+For observation 21 predict: 2 | true
+For observation 22 predict: 1 | true
+For observation 23 predict: 2 | true
+For observation 24 predict: 2 | true
+For observation 25 predict: 1 | true
+For observation 26 predict: 1 | true
+For observation 27 predict: 0 | true
+For observation 28 predict: 2 | true
+For observation 29 predict: 0 | true
+30 correct out of 30 observations
+Training mean cross-entropy: 0.04773370351
+Test mean cross-entropy: 0.04938852337
